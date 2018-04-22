@@ -1,7 +1,3 @@
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/) 
- [![Slack Status](https://img.shields.io/badge/Slack_Channel-swc--r--gapminder-E01563.svg)](https://swcarpentry.slack.com/messages/C9Y0M3YKG) 
-
-R for Reproducible Scientific Analysis
 ======================================
 
 An introduction to R for non-programmers using the [Gapminder][gapminder] data.
@@ -41,4 +37,5 @@ Maintainers:
 [mawdsley_david]: https://software-carpentry.org/team/#mawdsley_david
 [oliver_jeffrey]: https://software-carpentry.org/team/#oliver_jeffrey
 [wright_tom]: https://software-carpentry.org/team/#wright_thomas
-[zimmerman_naupaka]: https://software-carpentry.org/team/#zimmerman_naupaka
+[zimmerman_naupaka]: https://software-x
+carpentry.org/team/#zimmerman_naupaka
